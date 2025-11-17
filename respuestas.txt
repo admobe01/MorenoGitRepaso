@@ -4,6 +4,8 @@ $ touch una/nombre.txt
 
 2.
 
+$ cp ../una/nombre.txt ../tres
+
 3.
 
 4.
