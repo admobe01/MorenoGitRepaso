@@ -4,13 +4,18 @@ $ touch una/nombre.txt
 
 2.
 
-$ cp ../una/nombre.txt ../tres
-
+$ touch una/nombre.txt
 3.
+
+$ cp ../una/nombre.txt ../tres
 
 4.
 
+$ mkdir dos/dosUna
+
 5.
+
+$ cd dos/dosUna
 
 6.
 
