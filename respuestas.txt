@@ -19,6 +19,8 @@ $ cd dos/dosUna
 
 6.
 
+$ touch ../../edad.txt
+
 7.
 
 8.
